@@ -1,4 +1,4 @@
-from antiDiscrimination.src.entities.dataset import Dataset
+from entities.dataset import Dataset
 from IPython.display import display
 
 
