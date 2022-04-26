@@ -1,7 +1,7 @@
 from abc import ABC, abstractmethod
 import pandas as pd
 from IPython.display import display
-from entities.record import Record
+from antiDiscrimination.entities.record import Record
 import random
 
 
